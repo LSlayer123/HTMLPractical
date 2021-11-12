@@ -13,4 +13,4 @@ function updateSentence(){
     location.innerHTML = sentence;
 }       
 
-//document.getElementById("button").onclick = updateSentence;
+// document.getElementById("button").onclick = updateSentence;
